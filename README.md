@@ -91,14 +91,14 @@
 
 ## 🎓 Education
 
-- **Master of Science in Computer Software Engineering** | University of Maryland (UMBC) | 2023 – 2025
-- **Bachelor of Technology in Computer Science & Engineering** | Gayatri Vidya Parishad College of Engineering (JNTU) | 2017 – 2021
+- **Master of Science in Computer Software Engineering** | University of Maryland (UMBC) 
+- **Bachelor of Technology in Computer Science & Engineering** | Gayatri Vidya Parishad College of Engineering (JNTU) 
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-sai-shivani/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerramsettibindusai19@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 
