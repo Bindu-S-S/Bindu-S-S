@@ -1,4 +1,4 @@
-# Hi there, I'm Bindu Sai Shivani Yerramsetti 👋
+# Hi there, I'm Sai 👋
 
 🎓 A passionate Master's student in Computer Software Engineering and an enthusiastic Software Engineer with a drive to build secure, scalable solutions. My expertise lies in **Full-Stack Development**, **Cybersecurity**, and **Data Engineering**, and I'm always looking for innovative ways to solve real-world challenges.
 
